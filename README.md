@@ -1,4 +1,4 @@
-Hey Their Programmers !!! I have made a simple yet elegant C++ console project built using Object-Oriented Programming (OOP) and arrays.
+Hey Their Programmers !!! I have made a  elegant C++ console project built using Object-Oriented Programming (OOP) and arrays.
 It basically allows users to manage hotel room bookings (with multiple floors and dynamic pricing) and travel packages within a single system.
 
  Features:
